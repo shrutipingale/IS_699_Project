@@ -8,15 +8,15 @@ You can drag-n-drop to change the order of lists, the order of tasks inside
 the list, and also move task from one list to another as well- to manage 
 the project as it moves through different stages.
 
->>Build Setup
+## Build Setup
 
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload
 npm run serve
 
 Launch launch.json file and hit run.
 
-The file will run on the local host server 
+The file will run on the localhost server 
 http://localhost:8080/
