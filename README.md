@@ -5,7 +5,7 @@ This is a Task Management Application. The app allows you to manage projects and
 One board represents one project. A board contains one or more lists. 
 Each list represents the category of tasks, such as Todo, Doing and Done. 
 You can drag-n-drop to change the order of lists, the order of tasks inside 
-the list, and also move task from one list to another as well- to manage 
+the list, and also move task from one list to another as well to manage 
 the project as it moves through different stages.
 
 ## Build Setup
