@@ -9,8 +9,6 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "deploy": "vue-cli-service build && cd dist && surge ./ kanban-board-demo.surge.sh",
-    "deploy-staging": "vue-cli-service build && cd dist && surge ./ kanban-board-demo-staging.surge.sh",
     "test:coverage": "vue-cli-service test:unit --coverage",
     "test:unit-watch": "vue-cli-service test:unit --watchAll"
   },
