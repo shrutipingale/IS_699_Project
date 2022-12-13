@@ -6,6 +6,8 @@ A board contains one or more lists. Each list represents the category of tasks, 
 You can drag-n-drop to change the order of lists, the order of tasks inside the list, and also move task from one 
 list to another as well to manage the project as it moves through different stages.
 
+Netlify Link: https://project-shruti-app.netlify.app
+
 ## Build Setup
 
 # install dependencies
